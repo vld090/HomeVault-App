@@ -1,2 +1,2 @@
-# MOBDEVE-Machine-Project
+# HomeVault App
 A home-inventory android application.
